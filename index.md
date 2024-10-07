@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Welcome to My Personal Blog
 
 Hi! I'm Prithvijay P Kurup, and this is my personal blog where I share my journey, thoughts, and experiences in technology, business development, and beyond.
