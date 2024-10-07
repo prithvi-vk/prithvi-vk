@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welcome to My Personal Blog
 
 Hi! I'm Prithvijay P Kurup, and this is my personal blog where I share my journey, thoughts, and experiences in technology, business development, and beyond.
@@ -12,9 +16,8 @@ Hi! I'm Prithvijay P Kurup, and this is my personal blog where I share my journe
 
 I'm a business development professional with a background in marketing, football, and music. I love exploring new technology and connecting with like-minded individuals.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prithvijay/).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prithvijaypkurup/).
 
 ## Contact
 
 Want to get in touch? [Email me](mailto:your-email@example.com).
-
