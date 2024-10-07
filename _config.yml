@@ -1,3 +1,7 @@
 title: Prithvijay's Blog
 description: My personal blog about technology, business development, and my journey.
 theme: jekyll-theme-minimal
+# Include custom CSS
+markdown: kramdown
+sass:
+  style: compressed
